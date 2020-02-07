@@ -18,3 +18,5 @@ App.propTypes = {
 };
 
 export default App;
+
+// Гребанный git
